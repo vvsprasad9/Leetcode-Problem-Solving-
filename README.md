@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
