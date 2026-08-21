@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0018-4sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0014-longest-common-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
