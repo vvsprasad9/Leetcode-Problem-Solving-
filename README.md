@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0875-koko-eating-bananas) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3731-find-missing-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
