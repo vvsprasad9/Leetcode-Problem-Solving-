@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0014-longest-common-prefix) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
