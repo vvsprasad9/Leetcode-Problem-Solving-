@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
