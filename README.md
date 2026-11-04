@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0014-longest-common-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Tree
