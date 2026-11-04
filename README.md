@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0014-longest-common-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0018-4sum) |
 | [3794-reverse-string-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3794-reverse-string-prefix) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
