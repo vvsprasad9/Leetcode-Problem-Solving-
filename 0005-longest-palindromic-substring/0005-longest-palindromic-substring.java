@@ -1,23 +1,30 @@
 class Solution {
-    public static String Pal(String s){
-        int l = 0,r = s.length()-1;
-        while(l < r){
-            if(s.charAt(l) != s.charAt(r)){
-                return "";
-            }
-            l++;
-            r--;
-        }
-        return s;
-    }
     public String longestPalindrome(String s) {
-        String  ans = "";
-        for(int i = 0;i<s.length();i++){
-            for(int j = i + 1;j<=s.length();j++){
-                String si = Pal(s.substring(i,j));
-                ans = (ans.length()<si.length())?si:ans;
+        int maxLen = 0, start = 0;
+        for (int i = 0; i < s.length(); i++) {
+            int l = i, r = i;
+            while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+                if (r - l + 1 > maxLen) {
+                    start = l;
+                    maxLen = r - l + 1;
+                }
+                l--;
+                r++;
+            }
+
+            l = i;
+            r = i + 1;
+
+            while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+                if (r - l + 1 > maxLen) {
+                    start = l;
+                    maxLen = r - l + 1;
+                }
+                l--;
+                r++;
             }
         }
-        return ans;
+        return s.substring(start, start + maxLen);
     }
 }
+
