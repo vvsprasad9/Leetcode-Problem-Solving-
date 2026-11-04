@@ -1,24 +1,38 @@
-class Solution {
-    public int beautySum(String s) {
-        int su = 0;
-        for(int i = 0;i<s.length();i++){
-            int[]freq = new int[26];
-            for(int j = i;j<s.length();j++){
-                  int ind = s.charAt(j) - 'a';
-                freq[ind]++;
+ class Solution {
+      public int beautySum(String s) {
 
-                int min = Integer.MAX_VALUE;
-                int max = 0;
+          int result = 0;
+          char[] ch = s.toCharArray();
+          int n = ch.length;
 
-                for (int k = 0; k < 26; k++) {
-                    if (freq[k] > 0) {
-                        min = Math.min(min, freq[k]);
-                        max = Math.max(max, freq[k]);
-                    }
-                }
-                su += max - min;
-        }
-        }
-        return su;
-    }
-}
+          for (int i = 0; i < n; i++) {
+
+              int[] freq = new int[26];
+              int[] histo = new int[n + 1];
+
+              int max = -1;
+              int min = n + 1;
+
+              for (int j = i; j < n; j++) {
+
+                  int f = ++freq[ch[j] - 'a'];
+
+                  if (f > max) {
+                      max = f;
+                      histo[max] = 0;
+                  }
+
+              ++histo[f];
+
+                  if (f == 1 ||
+                      (--histo[f - 1] == 0 && f - 1 == min)) {
+                      min = f;
+                  }
+
+                  result += max - min;
+              }
+          }
+
+          return result;
+      }
+  }
