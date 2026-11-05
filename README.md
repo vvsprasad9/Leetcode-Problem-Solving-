@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1539-kth-missing-positive-number) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1539-kth-missing-positive-number) |
 ## Math
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0018-4sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0018-4sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3794-reverse-string-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3794-reverse-string-prefix) |
 ## Divide and Conquer
 |  |
