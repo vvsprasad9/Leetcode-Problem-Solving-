@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0018-4sum) |
 | [0059-spiral-matrix-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0238-product-of-array-except-self) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0005-longest-palindromic-substring) |
+| [0119-pascals-triangle-ii](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
