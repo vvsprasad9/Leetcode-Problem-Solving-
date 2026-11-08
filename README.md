@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/0058-length-of-last-word) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vvsprasad9/Leetcode-Problem-Solving-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
